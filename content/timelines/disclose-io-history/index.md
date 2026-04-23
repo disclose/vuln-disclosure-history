@@ -64,8 +64,8 @@ Version 1 of the **Rain Forest Puppy disclosure policy** template is released �
 
 > **This entry combines what disclose.io/history lists as "ISO 24197/30111 released for paying customers" (Feb 2012) and "Free ISO 24197" (Apr 2016). Per the fact-check above, the correct standard numbers are 29147 and 30111. Publication dates below use the ISO catalogue of record.**
 
-- **ISO/IEC 30111:2013** — *Information technology — Security techniques — Vulnerability handling processes.* First published October 2013.
-- **ISO/IEC 29147:2014** — *Information technology — Security techniques — Vulnerability disclosure.* First published February 2014.
+- **ISO/IEC 30111:2013** — *Information technology — Security techniques — Vulnerability handling processes.* First published October 2013. (Updated 2019 edition below.)
+- **ISO/IEC 29147:2014** — *Information technology — Security techniques — Vulnerability disclosure.* First published February 2014. (Independently verified against the ISO catalogue page: title is "ISO/IEC 29147:2014 - Information technology — Security techniques — Vulnerability disclosure". A second edition, **ISO/IEC 29147:2018**, has since superseded the 2014 version at [iso.org/standard/72311](https://www.iso.org/standard/72311.html).)
 - **2016-04-18** — ISO/IEC 29147 made available as a free download (a rare move for ISO).
 
 **Known contributors:** **Katie Moussouris** is widely documented as a principal drafter and evangelist of ISO/IEC 29147 during her time at Microsoft and afterwards. The standards were developed under **ISO/IEC JTC 1/SC 27 WG4**, whose working-group members are the behind-the-scenes drafters whose names are the kind of quiet-giant work this repo is built to surface.
