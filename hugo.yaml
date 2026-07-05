@@ -1,3 +1,3 @@
-baseURL: https://example.org/
-locale: en-us
-title: My New Hugo Project
+baseURL: https://disclose.io/history/
+languageCode: en-us
+title: Vulnerability Disclosure History
