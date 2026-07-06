@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://disclose.io"><img src="docs/marquee.png" alt="vuln-disclosure-history · disclose.io" width="820"></a>
+
 # vuln-disclosure-history
 
 ### A history of **vulnerability disclosure** — the key moments in how the world learned to report and fix security flaws.
